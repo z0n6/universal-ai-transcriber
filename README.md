@@ -1,6 +1,6 @@
 # 🎙️ Universal AI Transcriber (萬用音訊/影片轉錄神器)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UvOEzWvHGNuhlx14w5vHAlPZTX2-EI-d?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/z0n6/universal-ai-transcriber/blob/main/transcriber.ipynb)
 
 這是一個基於 `faster-whisper` 開發的高效能語音轉錄工具，專為會議記錄、影音創作者、研究人員及 Podcast 製作人設計。只要提供音訊或影片連結，即可利用免費的 Google Colab GPU 資源，一鍵生成高精準度的逐字稿與專業字幕檔。
 
