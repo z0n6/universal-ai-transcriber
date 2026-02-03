@@ -14,7 +14,7 @@
 ## 🛠️ 技術棧 (Tech Stack)
 
 * **核心語言**: Python 3
-* **AI 模型**: `faster-whisper` (CTranslate2 加速引擎)
+* **AI 模型**: `faster-whisper` (CTranslate2 加速引擎) / `Qwen3-ASR`
 * **文檔處理**: `python-docx`
 * **平台**: Google Colab (利用 T4 GPU 進行 FP16 精度推理)
 
